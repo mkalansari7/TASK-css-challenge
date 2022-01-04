@@ -1,0 +1,43 @@
+body {
+    background-image: url("/TASK-css-challenge/assets/pokemon-bg.jpg");
+}
+
+
+.container{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.box {
+    height: 300px;
+    width: 300px;
+    background: #fff;
+    padding: 50px;
+    border-radius: 30px;
+    position: relative;
+    text-align: center;
+    -webkit-box-shadow: 0px 0px 21px 1px #000000; 
+    box-shadow: 0px 0px 21px 1px #000000;
+}
+
+.pika-image{
+    max-width: 50%;
+    border-radius: 100px;
+
+}
+
+
+.poke-name{
+    font-family: inherit;
+    font-weight: bold;
+}
+
+.paragraph{
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
