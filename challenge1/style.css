@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(27, 12, 44);
+    color: white;
+    text-align: center;
+}
+
+.movie-image{
+    width: 250px;
+    margin: 25px;
+}
+
+.title{
+    margin: 25px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 
+    'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.paragraph{
+    margin: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
