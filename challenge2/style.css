@@ -25,7 +25,8 @@ body {
 }
 
 .pika-image{
-    max-width: 50%;
+    height: 300px;
+    width: 300px;
     border-radius: 100px;
 
 }
